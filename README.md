@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gopinath an completed IT post Grauate
+- 👋 Hi, I’m Gopinath an completed IT post Graduate
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on DevOps 
