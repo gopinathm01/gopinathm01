@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gopinath an IT post Graduated guy
+- 👋 Hi, I’m Gopinath Software Developer
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently working in NodeJS 
 - 💞️ I’m looking to collaborate on DevOps 
 - 📫 How to reach me gopinathmohantrl@gmail.com
 <!---
